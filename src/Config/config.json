@@ -1,0 +1,10 @@
+{
+	"workspace": "framework/public",
+	"title": "PHP Framework",
+	"db": {
+		"host": "localhost",
+		"username": "root",
+		"password": "",
+		"dbname": ""
+	}
+}
